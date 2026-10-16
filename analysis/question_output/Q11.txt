@@ -1,0 +1,3 @@
+Median hours: 6.68167 
+Mean hours: 251.356 
+Closed status without closed_date: 332 

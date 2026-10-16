@@ -1,0 +1,7 @@
+ cutoff   TN   FP   FN   TP accuracy sensitivity specificity precision
+   0.25 4997 3789 1550 1565 0.551382    0.502408    0.568746  0.292305
+   0.50 8786    0 3115    0 0.738257    0.000000    1.000000       NaN
+       F1 flag_rate
+ 0.369583  0.449878
+ 0.000000  0.000000
+Validation AUC: 0.554211 

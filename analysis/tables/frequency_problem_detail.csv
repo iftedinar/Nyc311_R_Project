@@ -1,0 +1,599 @@
+"category","n","percent"
+"Loud Music/Party",4519,11.2975
+"Blocked Hydrant",2079,5.1975
+"ENTIRE BUILDING",1672,4.18
+"Banging/Pounding",1660,4.15
+"Posted Parking Sign Violation",1656,4.14
+"No Access",1337,3.3425
+"Blocked Sidewalk",1058,2.645
+"Loud Talking",956,2.39
+"APARTMENT ONLY",807,2.0175
+"With License Plate",793,1.9825
+"Trash",786,1.965
+"N/A",730,1.825
+"Derelict Vehicles",602,1.505
+"PESTS",599,1.4975
+"Partial Access",561,1.4025
+"Pothole",532,1.33
+"Commercial Overnight Parking",516,1.29
+"Removal Request",450,1.125
+"Missing",431,1.0775
+"Car/Truck Music",360,0.9
+"WALL",348,0.87
+"MOLD",339,0.8475
+"Double Parked Blocking Traffic",336,0.84
+"FLOOR",333,0.8325
+"Food Vendor",329,0.8225
+"Blocked Crosswalk",321,0.8025
+"CEILING",312,0.78
+"Noise: Construction Before/After Hours (NM1)",298,0.745
+"Compost",296,0.74
+"Parking Permit Improper Use",295,0.7375
+"Rat Sighting",278,0.695
+"Other",267,0.6675
+"Street Light Out",267,0.6675
+"Graffiti",262,0.655
+"Controller",259,0.6475
+"Blocked Bike Lane",245,0.6125
+"DOOR",245,0.6125
+"WATER SUPPLY",228,0.57
+"Other (complaint details)",224,0.56
+"GARBAGE/RECYCLING STORAGE",201,0.5025
+"BASIN/SINK",199,0.4975
+"Driver Complaint - Non Passenger",198,0.495
+"HEAVY FLOW",194,0.485
+"BATHTUB/SHOWER",189,0.4725
+"Use Outside",188,0.47
+"License Plate Obscured",185,0.4625
+"Illegal Conversion Of Residential Building/Space",173,0.4325
+"Double Parked Blocking Vehicle",172,0.43
+"Waste Not Separated",158,0.395
+"WINDOW FRAME",155,0.3875
+"Broken Sidewalk",151,0.3775
+"Elevator - Single Device On Property/No Alternate Service",146,0.365
+"ELECTRIC/GAS RANGE",142,0.355
+"SLOW LEAK",141,0.3525
+"Engine Idling",128,0.32
+"Sidewalk Violation",122,0.305
+"Non-Food Vendor",120,0.3
+"TOILET",118,0.295
+"CABINET",116,0.29
+"Lead Kit Request (Residential) (L10)",115,0.2875
+"Cave-in",114,0.285
+"Noise, Barking Dog (NR5)",114,0.285
+"Building Permit - None",112,0.28
+"Trees and Sidewalks Program",111,0.2775
+"Blocked - Construction",110,0.275
+"Car/Truck Horn",109,0.2725
+"Noise: Construction Equipment (NC1)",106,0.265
+"Broken Curb",105,0.2625
+"Paper License Plates",101,0.2525
+"BELL/BUZZER/INTERCOM",99,0.2475
+"Dirty Water (WE)",98,0.245
+"Cone",97,0.2425
+"Condition Attracting Rodents",94,0.235
+"Driver Complaint - Passenger",93,0.2325
+"Hydrant Running (WC3)",92,0.23
+"REFRIGERATOR",92,0.23
+"Sewer Backup (Use Comments) (SA)",92,0.23
+"Trespassing",92,0.23
+"Planted More Than 2 Years Ago",87,0.2175
+"Elevator - Multiple Devices On Property",83,0.2075
+"Leak (Use Comments) (WA2)",83,0.2075
+"Noise: Alarms (NR3)",83,0.2075
+"Branch or Limb Has Fallen Down",80,0.2
+"Poster or Sign",80,0.2
+"POWER OUTAGE",79,0.1975
+"NO LIGHTING",78,0.195
+"OUTLET/SWITCH",78,0.195
+"Unauthorized Bus Layover",76,0.19
+"Defective Hardware",74,0.185
+"Work Without A Permit - Occupied Multiple Dwelling",74,0.185
+"Recycling - Paper/Metal/Glass/Rigid Plastic",73,0.1825
+"Allowed in Smoke Free Area",72,0.18
+"Signs of Rodents",69,0.1725
+"Structure - Outdoors",69,0.1725
+"Trash or Recycling Not Secure",69,0.1725
+"Air: Odor/Fumes, Vehicle Idling (AD3)",68,0.17
+"Catch Basin Clogged/Flooding (Use Comments) (SC)",68,0.17
+"Recycling - Paper",68,0.17
+"Chronic Dumping",65,0.1625
+"Cat",63,0.1575
+"Trash or Recycling",63,0.1575
+"Chronic Speeding",62,0.155
+"LIGHTING",61,0.1525
+"Bulky Trash",60,0.15
+"COOKING GAS",60,0.15
+"Loud Television",59,0.1475
+"DAMP SPOT",57,0.1425
+"Inadequate Sweeping",56,0.14
+"Noise: air condition/ventilation equipment (NV1)",56,0.14
+"In Public",55,0.1375
+"Neglected",54,0.135
+"Dog Off Leash",53,0.1325
+"Hitting Building",52,0.13
+"No Parking, Standing, Stopping",52,0.13
+"Pedestrian Signal",52,0.13
+"Garbage or Litter",50,0.125
+"Recycling - Metal/Glass/Rigid Plastic",50,0.125
+"Bag/Wallet",48,0.12
+"Hydrant Leaking (WC1)",48,0.12
+"Rough, Pitted or Cracked Roads",48,0.12
+"Possible Water Main Break (Use Comments) (WA1)",45,0.1125
+"Sidewalk Shed/Pipe Scafford - Inadequate Defective/None",45,0.1125
+"SMOKE DETECTOR",45,0.1125
+"Branch Cracked and Will Fall",44,0.11
+"Boiler - Defective/Inoperative/No Permit",43,0.1075
+"Congestion/Gridlock",43,0.1075
+"DOOR FRAME",43,0.1075
+"Failed Street Repair",43,0.1075
+"SEWAGE",43,0.1075
+"Bin Not Used",42,0.105
+"Building Shaking/Vibrating/Structural Stability",42,0.105
+"Rodents/Insects/Garbage",41,0.1025
+"Plate Condition - Noisy",40,0.1
+"WIRING",40,0.1
+"Entire Tree Has Fallen Down",38,0.095
+"Sidewalk Zone Blocked",38,0.095
+"Overnight Commercial Storage",37,0.0925
+"Use Indoor",37,0.0925
+"RADIATOR",36,0.09
+"CARBON MONOXIDE DETECTOR",35,0.0875
+"Chemical Vapors/Gases/Odors",35,0.0875
+"Curb Cut/Driveway/Carport - Illegal",35,0.0875
+"Tree Leaning/Uprooted",35,0.0875
+"Chained to Public Property",34,0.085
+"Drag Racing",34,0.085
+"Hydrant Running Full (WA4)",34,0.085
+"Cons - Contrary/Beyond Approved Plans/Permits",33,0.0825
+"Pothole - Highway",33,0.0825
+"VENTILATION SYSTEM",32,0.08
+"After Hours Work - Illegal",31,0.0775
+"Dead Branches in Tree",31,0.0775
+"Waste Set Out Too Early or Too Late",31,0.0775
+"Dog Waste",30,0.075
+"Electrical Wiring Defective/Exposed",30,0.075
+"New Basket",30,0.075
+"Stop",30,0.075
+"Storage Area Not Provided",30,0.075
+"Waste Left in Front of Other Residence",30,0.075
+"WINDOW PANE",30,0.075
+"Other/Unknown",29,0.0725
+"WINDOW GUARD BROKEN/MISSING",29,0.0725
+"Illegal Hotel Rooms In Residential Building",28,0.07
+"Street Flooding (SJ)",28,0.07
+"Veh Signal Lamp",28,0.07
+"Working Contrary To Stop Work Order",28,0.07
+"No Water (WNW)",27,0.0675
+"Noise: Jack Hammering (NC2)",27,0.0675
+"Tortured",27,0.0675
+"1 or 2",26,0.065
+"Broken Glass",26,0.065
+"Defacement",26,0.065
+"Replacement Basket",25,0.0625
+"Dog",24,0.06
+"Electronics/Phones",24,0.06
+"Fence - None/Inadequate",24,0.06
+"FIRE ESCAPE",24,0.06
+"Noise, Ice Cream Truck (NR4)",24,0.06
+"Veh Signal Head",24,0.06
+"APS",23,0.0575
+"Hydrant Defective (WC2)",23,0.0575
+"No Certificate Of Occupancy/Illegal/Contrary To CO",23,0.0575
+"Out of Order",23,0.0575
+"Branches Damaged",22,0.055
+"Bulky Recycling",22,0.055
+"Food Source/Protection",22,0.055
+"JANITOR/SUPER",22,0.055
+"LOW WATER PRESSURE - WLWP",22,0.055
+"Street Not Swept",22,0.055
+"Debris - Excessive",21,0.0525
+"MAINTENANCE",21,0.0525
+"Pet/Animal",21,0.0525
+"Tow Truck Company",21,0.0525
+"Unlicensed Vendors",21,0.0525
+"Food Temperature",20,0.05
+"Waste Disposal",20,0.05
+"Catch Basin Search (SC2)",19,0.0475
+"Illegal Use Of A Hydrant (CIN)",19,0.0475
+"Tree Alive - in Poor Condition",19,0.0475
+"Bike Signal",18,0.045
+"Debris - Falling Or In Danger Of Falling",18,0.045
+"Hours of Operation",18,0.045
+"MAILBOX",18,0.045
+"Obstructing Public Use",18,0.045
+"Pigeon Waste",18,0.045
+"Unsecured Facility",18,0.045
+"Air: Dust, Construction/Demolition (AE4)",17,0.0425
+"Catch Basin Sunken/Damaged/Raised (SC1)",17,0.0425
+"Day Care Facility",17,0.0425
+"Dead Animal",17,0.0425
+"Food Spoiled",17,0.0425
+"Litter",17,0.0425
+"Other Store (Non-Food)",17,0.0425
+"Ventilation",17,0.0425
+"Zoning - Non-Conforming/Illegal Vehicle Storage",17,0.0425
+"Adjacent Buildings Not Protected",16,0.04
+"Food Worker Activity",16,0.04
+"Illegal. Commercial Use In Resident Zone",16,0.04
+"LED Pedestrian Unit",16,0.04
+"Letter Grading",16,0.04
+"Sewage Odor",16,0.04
+"Sign/Awning/Marquee - Illegal/No Permit",16,0.04
+"Equipment",15,0.0375
+"Inappropriate Behavior",15,0.0375
+"Rodent Sighting",15,0.0375
+"SIGNAGE MISSING",15,0.0375
+"STEAM PIPE/RISER",15,0.0375
+"Street Cleaning - ASP",15,0.0375
+"Unauthorized Tree Removal",15,0.0375
+"Bodega, Deli, or Convenience Store",14,0.035
+"Dust from Construction",14,0.035
+"Ped Lamp",14,0.035
+"Plate Condition - Shifted",14,0.035
+"St Name - Attached to Pole",14,0.035
+"Trash and Bulky Trash",14,0.035
+"Vent/Exhaust - Illegal/Improper",14,0.035
+"Wireless",14,0.035
+"Bird",13,0.0325
+"Blocking Street",13,0.0325
+"Car Service Company Complaint",13,0.0325
+"Merchandise",13,0.0325
+"Noise:  lawn care equipment (NCL)",13,0.0325
+"Spilled Garbage",13,0.0325
+"STAIRS",13,0.0325
+"Supermarket or Grocery Store",13,0.0325
+"Unleashed Dog in Public",13,0.0325
+"Used Car Dealer",13,0.0325
+"Weeds or Grass",13,0.0325
+"WINDOW/FRAME",13,0.0325
+"Bicycle Chained to Tree",12,0.03
+"Bus Stop",12,0.03
+"Chemical Odor (HD1)",12,0.03
+"Egress - Doors Locked/Blocked/Improper/No Secondary Means",12,0.03
+"Excessive Water In Basement (WEFB)",12,0.03
+"Graffiti or Vandalism",12,0.03
+"Hitting Power Lines",12,0.03
+"Injured Wildlife",12,0.03
+"Other (Explain Below)",12,0.03
+"Overflowing dumpster",12,0.03
+"Planted Less Than 2 Years Ago",12,0.03
+"Rat or Mouse",12,0.03
+"Truck Route Violation",12,0.03
+"Barrier Condition",11,0.0275
+"Detached Trailer",11,0.0275
+"Failure To Retain Water/Improper Drainage- (LL103/89)",11,0.0275
+"For One Address",11,0.0275
+"Hydrant Knocked Over/Missing (WC)",11,0.0275
+"Improperly Parked or Abandoned",11,0.0275
+"Post",11,0.0275
+"Raccoon",11,0.0275
+"SRO - Illegal Work/No Permit/Change In Occupancy/Use",11,0.0275
+"Trunk Damaged",11,0.0275
+"Unauthorized Restaurant",11,0.0275
+"3 or More",10,0.025
+"DOOR/FRAME",10,0.025
+"Hitting Phone/Cable Lines",10,0.025
+"Opossum",10,0.025
+"Police Report Not Requested",10,0.025
+"Restaurant",10,0.025
+"Sidewalk Collapsed",10,0.025
+"Site Setup Condition",10,0.025
+"Street Fair Vendor",10,0.025
+"Street Light Dayburning",10,0.025
+"Waste Left in Front of Residence",10,0.025
+"Water Meter Broken/Leaking - Private Residence (CMR)",10,0.025
+"Car Wash",9,0.0225
+"Failure To Maintain",9,0.0225
+"Insects / Pests",9,0.0225
+"Manhole Cover Missing (Emergency) (SA3)",9,0.0225
+"Mouse Sighting",9,0.0225
+"No Receipt",9,0.0225
+"Odor",9,0.0225
+"Overflowing",9,0.0225
+"Pedestrian Ramp Defective",9,0.0225
+"Plumbing-Defective/Leaking/Not Maintained",9,0.0225
+"Sign",9,0.0225
+"Smoke/Odor",9,0.0225
+"Air: Smoke, Chimney or vent (AS1)",8,0.02
+"Air: Smoke, Vehicular (AA4)",8,0.02
+"Building - Vacant, Open And Unguarded",8,0.02
+"Chronic Stoplight Violation",8,0.02
+"Coin or Card Did Not Register",8,0.02
+"Garage or Parking Lot",8,0.02
+"Line/Marking - After Repaving",8,0.02
+"No Permit or License",8,0.02
+"Noise: Private Carting Noise (NQ1)",8,0.02
+"Plumbing Work - Illegal/No Permit/Standpipe/Sprinkler",8,0.02
+"Site Conditions Endangering Workers",8,0.02
+"Stoop Line Stand",8,0.02
+"Tobacco Sales",8,0.02
+"Vehicle Signal",8,0.02
+"Wildlife Sighting",8,0.02
+"Advertising Sign/Billboard/Posters/Flexible Fabric - Illegal",7,0.0175
+"Asbestos Complaint (B1)",7,0.0175
+"Blocking Sidewalk or Street",7,0.0175
+"Clothing/Glasses",7,0.0175
+"Containers Left Out After Collection",7,0.0175
+"Dirt or Gravel",7,0.0175
+"Gas Hook-Up/Piping - Illegal Or Defective",7,0.0175
+"Grass/Weeds",7,0.0175
+"Manhole Overflow (Use Comments) (SA1)",7,0.0175
+"Noise",7,0.0175
+"One Way",7,0.0175
+"Puddle in Ground",7,0.0175
+"Roots Damaged",7,0.0175
+"Syringes",7,0.0175
+"Veh Sgnl Mult Lamps",7,0.0175
+"Air: Odor/Fumes, Restaurant (AD2)",6,0.015
+"Base Door",6,0.015
+"Cable",6,0.015
+"Credit Card Stuck in Meter",6,0.015
+"Defective/Missing Curb Piece (SC4)",6,0.015
+"Dirty/Graffiti",6,0.015
+"Laundromat",6,0.015
+"No Shelter",6,0.015
+"Noise: Manufacturing Noise (NK1)",6,0.015
+"Oil Spill On Street, Large (HQL)",6,0.015
+"Ped Multiple Lamps",6,0.015
+"RAIN GARDEN DEBRIS (GIRGD)",6,0.015
+"Sewage Leak",6,0.015
+"Sewer Odor (SA2)",6,0.015
+"Sticker or Decal",6,0.015
+"Street Light Feed",6,0.015
+"Street Zone Blocked",6,0.015
+"Time Switch",6,0.015
+"Tree Trunk Split",6,0.015
+"Unclean Condition",6,0.015
+"Wall/Retaining Wall - Bulging/Cracked",6,0.015
+"Abandoned Bike",5,0.0125
+"Bare Hands in Contact w/ Food",5,0.0125
+"BBQ Outside Authorized Area",5,0.0125
+"Cell Phone Store",5,0.0125
+"Controller Cabinet",5,0.0125
+"Debris from Car Accident",5,0.0125
+"Demolition - Unsafe",5,0.0125
+"Drug Store or Pharmacy",5,0.0125
+"Dumpster - Construction Waste",5,0.0125
+"Employment Agency",5,0.0125
+"Fixture/Luminaire Damaged",5,0.0125
+"Fixture/Luminaire Hanging",5,0.0125
+"Food Contaminated",5,0.0125
+"Food Preparation Location",5,0.0125
+"Food Protection",5,0.0125
+"Investigative Inspection",5,0.0125
+"Lamppost Knocked Down",5,0.0125
+"Lamppost Leaning",5,0.0125
+"Lights From Parking Lot Shining On Building",5,0.0125
+"Noise, Other Animals (NR6)",5,0.0125
+"Permit/License/Certificate",5,0.0125
+"Removing Wildlife",5,0.0125
+"Small uncovered dumpster",5,0.0125
+"Unauthorized Tree Pruning",5,0.0125
+"Veh Signal Visor",5,0.0125
+"Yield",5,0.0125
+"Chemical Spill/Release (HA1)",4,0.01
+"Furniture Store",4,0.01
+"Graffiti - Highway",4,0.01
+"Hyd Valve Box Cover Missing (WV2)",4,0.01
+"Illegal Conversion Of Commercial Bldg/Space To Other Uses",4,0.01
+"Lamppost Damaged",4,0.01
+"Lamppost Missing",4,0.01
+"Mattress or Box Spring Uncovered",4,0.01
+"Multiple Street Lights Out",4,0.01
+"Odor In Sewer/Catch Basin (ICB)",4,0.01
+"Oil Spill On Street, Small (HQS)",4,0.01
+"Other Animal",4,0.01
+"Remove Debris",4,0.01
+"Rooftank Leak Or Overflow (CKO)",4,0.01
+"Smoking",4,0.01
+"Squirrel",4,0.01
+"St Name - Over Intersection",4,0.01
+"Street Light Lamp Dim",4,0.01
+"Street Light Lamp Missing",4,0.01
+"Structural Stability Impacted - New Building Under Construction",4,0.01
+"Swimming Pool - Unmaintained",4,0.01
+"Underage - Licensed Est",4,0.01
+"Unsafe Worksite",4,0.01
+"Biking/Rollerblading off Path",3,0.0075
+"Building",3,0.0075
+"Catch Basin Grating Missing (SA4)",3,0.0075
+"Clear Street Light",3,0.0075
+"Cloudy Or Milky Water (QB1)",3,0.0075
+"Concrete In Catch Basin (IEA)",3,0.0075
+"Crash Cushion Defect",3,0.0075
+"Culvert Blocked/Needs Cleaning (SE)",3,0.0075
+"Dogs or Cats Sold",3,0.0075
+"Domestic Strays",3,0.0075
+"Driver Report - Non Passenger",3,0.0075
+"E-Cigarette Sales",3,0.0075
+"Gas Station Convenience Store",3,0.0075
+"Heating Problem",3,0.0075
+"Home Improvement Contractor",3,0.0075
+"Idling or Blocking Traffic",3,0.0075
+"In Car",3,0.0075
+"Landmark Bldg - Illegal Work",3,0.0075
+"Lighting",3,0.0075
+"Line/Marking - Faded",3,0.0075
+"Misuse",3,0.0075
+"News Gathering",3,0.0075
+"Public Complaint - Comm Location",3,0.0075
+"Residential Rental Agency",3,0.0075
+"Rodents/Mice",3,0.0075
+"ROOFING",3,0.0075
+"Shipping Company",3,0.0075
+"Speed Limit",3,0.0075
+"Street Light Cycling",3,0.0075
+"Structure - Indoors",3,0.0075
+"Support Bracket",3,0.0075
+"Taste/Odor, Chemical (QA2)",3,0.0075
+"Timer Defect - Fast/Fail",3,0.0075
+"Toilet Facility",3,0.0075
+"unknown odor/taste in drinking water (QA6)",3,0.0075
+"Unsafe Driving",3,0.0075
+"Vehicle Complaint",3,0.0075
+"After Hours - Licensed Est",2,0.005
+"Air Conditioning Problem",2,0.005
+"Air: Other Air Problem (Use Comments) (AZZ)",2,0.005
+"Animal Waste",2,0.005
+"Blank Out Matrix Sgn",2,0.005
+"BOILER",2,0.005
+"Car Rental",2,0.005
+"Cellar Door Defective",2,0.005
+"Collection Days",2,0.005
+"Curb Defect-Metal Protruding",2,0.005
+"Damaged Bench",2,0.005
+"Damaged Other",2,0.005
+"Damaged/Bent/Loose/Leaning",2,0.005
+"Damaged/Defective",2,0.005
+"Department Store or Megastore",2,0.005
+"Dry Cleaner",2,0.005
+"Electronic Sign - Overhead",2,0.005
+"Electronics Store",2,0.005
+"Equipment Complaint",2,0.005
+"Fixture/Luminaire Missing",2,0.005
+"Fixture/Luminaire Out Of Position",2,0.005
+"Flashing Hazard",2,0.005
+"Food Contains Foreign Object",2,0.005
+"Food Worker Hygiene",2,0.005
+"Foreign Attachment On Lamppost",2,0.005
+"Guard Rail - Street",2,0.005
+"GUTTER/LEADER",2,0.005
+"Honorary",2,0.005
+"Hotel or Motel",2,0.005
+"Human Feces",2,0.005
+"Illness Caused by Drinking Water",2,0.005
+"Jewelry Store",2,0.005
+"Kitchen/Food Prep Area",2,0.005
+"Lamppost Base Door/Cover Damaged",2,0.005
+"Lamppost Base Door/Cover Missing",2,0.005
+"Lamppost Wire Exposed",2,0.005
+"Metal Protruding - Sign Stump",2,0.005
+"Milk/Dairy Products",2,0.005
+"Multiple St Lts Dayburning",2,0.005
+"New Bus Stop Shelter Placement",2,0.005
+"No Sampling Required, Requested Information (QG2)",2,0.005
+"NYPD",2,0.005
+"On Messenger",2,0.005
+"Other School Condition",2,0.005
+"OUTLET COVER",2,0.005
+"Painted Line/Marking",2,0.005
+"PAVEMENT",2,0.005
+"Ped Flasher",2,0.005
+"Plate Condition - Open",2,0.005
+"Privately Owned Public Space/Non-Compliance",2,0.005
+"Recreation Center",2,0.005
+"ROOF DOOR/HATCH",2,0.005
+"Safety Netting/Guard Rails - Damaged/Inadequate/None (6 Stories/75 Feet Or Less)",2,0.005
+"SEWER",2,0.005
+"Sidewalk Display",2,0.005
+"Sidewalk Grating - Defective",2,0.005
+"SPRINKLER",2,0.005
+"Storage Warehouse",2,0.005
+"Taste/Odor, Bitter/Metallic (QA3)",2,0.005
+"Tour Guide",2,0.005
+"Traffic Signal Light",2,0.005
+"Underground",2,0.005
+"Unsafe Mold Cleanup",2,0.005
+"Unsafe Use of Playground",2,0.005
+"Veh Signal Sec Door",2,0.005
+"Wasting Faucets,Sinks,Flushometer,Urinal,Etc. - Other (CWO)",2,0.005
+"Waterway-Color (IHD)",2,0.005
+"After Hours Work - With An AHV Permit",1,0.0025
+"Air: Odor, Sweet From Unknown Source (AZ1)",1,0.0025
+"Asbestos",1,0.0025
+"Auction House or Auctioneer",1,0.0025
+"Bail Bond Agent",1,0.0025
+"Barber Shop, Beauty Salon, or Nail Salon",1,0.0025
+"Bikes in Buildings",1,0.0025
+"Book/Stationery",1,0.0025
+"Bracket Arm Broken",1,0.0025
+"Chained",1,0.0025
+"Clothing, Shoe, or Accessories Store",1,0.0025
+"Cloudy Or Milky, Other (Use Comments) (QBZ)",1,0.0025
+"Construction - Change Grade/Watercourse",1,0.0025
+"Construction Labor Provider",1,0.0025
+"Damaged Leg or Pole Bent",1,0.0025
+"Detour",1,0.0025
+"Dishwashing/Utensils",1,0.0025
+"Do Not Enter",1,0.0025
+"Dogs or Cats Not Sold",1,0.0025
+"Driver Compliment",1,0.0025
+"Electronics or Appliance Repair",1,0.0025
+"Emergency Personnel Report",1,0.0025
+"Excavation Undermining Adjacent Building",1,0.0025
+"Facility Maintenance",1,0.0025
+"Fire Alarm Lamp Cycling",1,0.0025
+"Fire Globe Missing",1,0.0025
+"Flood Light Lamp Cycling",1,0.0025
+"For-Profit College or University",1,0.0025
+"Foreign Attachment On Wood Pole",1,0.0025
+"Foundation",1,0.0025
+"Fountain - Over 5 Gallons",1,0.0025
+"Gas Station Pumps",1,0.0025
+"Glassware Missing",1,0.0025
+"Grease In Sewer/Catch Basin (IDG)",1,0.0025
+"Handwashing",1,0.0025
+"Highway Fence",1,0.0025
+"Home Appliance Store",1,0.0025
+"Illegal Use Of Hose - Private Residence (CCR)",1,0.0025
+"Inadequate or No Heat",1,0.0025
+"installation of hydrant side post (WHFP)",1,0.0025
+"Jewelry",1,0.0025
+"Junction Box",1,0.0025
+"Leaky Roof",1,0.0025
+"Locksmith",1,0.0025
+"Mast Arm",1,0.0025
+"Material Stored Improperly",1,0.0025
+"MICROWAVE",1,0.0025
+"Mobile Food Vendor",1,0.0025
+"Monkey",1,0.0025
+"Musical Instrument",1,0.0025
+"New Con Ed Service Request",1,0.0025
+"Newsstand",1,0.0025
+"No Consent Form",1,0.0025
+"Noise: Boat(Engine,Music,Etc) (NR10)",1,0.0025
+"Nuisance/Truant",1,0.0025
+"Online or Mail Order",1,0.0025
+"Other Water Problem (Use Comments) (QZZ)",1,0.0025
+"Parking Card Stuck in Meter",1,0.0025
+"Pawnbroker",1,0.0025
+"Ped Visor",1,0.0025
+"Pigeon Odor",1,0.0025
+"Playing in Unsuitable Place",1,0.0025
+"Plumbing",1,0.0025
+"Police Report Requested",1,0.0025
+"PORCH/BALCONY",1,0.0025
+"Posted Notice Or Order Removed/Tampered With",1,0.0025
+"Process Server",1,0.0025
+"Remove Stump",1,0.0025
+"Rooster",1,0.0025
+"Safety Netting/Guard Rails - Damaged/Inadequate/None (Over 6 Stories/75 Feet)",1,0.0025
+"School Crossing",1,0.0025
+"Sewage",1,0.0025
+"Sign - In Danger Of Falling",1,0.0025
+"Sign Inadequate",1,0.0025
+"Sign Missing or Defective",1,0.0025
+"Snake",1,0.0025
+"Snow or Ice",1,0.0025
+"Sprinkler System - Inadequate",1,0.0025
+"Suspended (Hanging) Scaffolds - No Pmt/Lic/Dangerous/Accident",1,0.0025
+"Sway Bar",1,0.0025
+"Swimming Pool Cover",1,0.0025
+"Taste/Odor, Sewer (QA5)",1,0.0025
+"Tax Preparation Services",1,0.0025
+"Third-Party Food Delivery Service",1,0.0025
+"Ticket Seller",1,0.0025
+"Touchscreen/Button Not Working",1,0.0025
+"Traffic Sign or Signal Blocked",1,0.0025
+"Trash Not Separated from Recycling",1,0.0025
+"Unauthorized Posting of Signs",1,0.0025
+"Unsanitary Condition",1,0.0025
+"Unspecified",1,0.0025
+"Use of Newly Seeded Lawn",1,0.0025
+"Wastewater Into Catch Basin (IEB)",1,0.0025
+"Wasting Faucets,Sinks,Flushometer,Urinal,Etc. - Private Residence (CWR)",1,0.0025
+"Water",1,0.0025
+"Water Meter Broken/Leaking - Other (CMO)",1,0.0025
+"Water Meter Stolen/Missing - Private Residence (CLR)",1,0.0025
+"WiFi/Internet Not Working/Slow",1,0.0025

@@ -1,0 +1,143 @@
+"category","BRONX","BROOKLYN","MANHATTAN","QUEENS","STATEN ISLAND"
+"AHV Inspection Unit",0,1,0,0,0
+"APPLIANCE",87,60,44,37,7
+"Abandoned Bike",1,20,10,3,0
+"Abandoned Vehicle",104,281,30,323,55
+"Air Quality",11,21,54,24,0
+"Animal Facility - No Permit",0,0,0,1,0
+"Animal in a Park",10,48,24,12,1
+"Animal-Abuse",30,37,23,23,5
+"Asbestos",4,4,4,1,1
+"BEST/Site Safety",0,5,0,1,0
+"Beach/Pool/Sauna Complaint",0,0,0,0,1
+"Bench",0,1,0,0,0
+"Bike Rack",1,2,4,2,0
+"Bike/Roller/Skate Chronic",1,13,5,4,6
+"Blocked Driveway",290,662,45,849,52
+"Boilers",11,10,8,12,2
+"Broken Parking Meter",7,6,18,18,1
+"Building Condition",0,0,1,0,0
+"Building Drinking Water Tank",0,1,0,0,0
+"Building/Use",27,61,27,112,13
+"Bus Stop Shelter Complaint",1,4,4,7,1
+"Bus Stop Shelter Placement",1,0,0,1,0
+"Commercial Disposal Complaint",1,15,12,2,0
+"Consumer Complaint",30,64,46,53,12
+"Curb Condition",11,68,18,27,9
+"DOOR/WINDOW",152,161,97,49,14
+"Damaged Tree",22,66,15,93,26
+"Day Care",6,2,2,7,0
+"Dead Animal",17,51,7,32,8
+"Dead/Dying Tree",6,27,9,37,20
+"Derelict Vehicles",157,181,42,198,24
+"Dirty Condition",101,216,158,139,51
+"Disorderly Youth",0,1,1,0,0
+"Drinking",5,14,12,27,3
+"Drinking Water",0,1,0,1,0
+"Drug Activity",25,24,25,151,0
+"Dumpster Complaint",3,10,6,4,1
+"E-Scooter",6,1,0,4,0
+"ELECTRIC",110,103,73,45,5
+"ELEVATOR",6,6,8,1,0
+"Electrical",3,12,3,9,3
+"Elevator",88,56,62,22,1
+"Emergency Response Team (ERT)",2,11,11,10,2
+"Encampment",24,81,386,53,1
+"FLOORING/STAIRS",116,111,85,29,5
+"Food Establishment",13,46,56,37,6
+"Food Poisoning",7,7,13,8,1
+"For Hire Vehicle Complaint",16,49,108,29,0
+"GENERAL",117,105,83,44,6
+"General Construction/Plumbing",46,176,94,104,27
+"Graffiti",17,142,70,35,8
+"Green Taxi Complaint",0,1,2,1,0
+"HEAT/HOT WATER",830,633,667,314,35
+"Hazardous Materials",1,12,4,9,0
+"Highway Condition",7,13,8,26,12
+"Highway Sign - Damaged",0,1,0,1,0
+"Homeless Person Assistance",23,72,300,30,4
+"Illegal Animal Kept as Pet",0,3,1,0,0
+"Illegal Dumping",75,152,59,209,20
+"Illegal Fireworks",4,10,0,5,0
+"Illegal Parking",1056,2920,784,2073,255
+"Illegal Posting",3,29,1,27,26
+"Illegal Tree Damage",10,27,17,12,6
+"Incorrect Data",1,0,0,1,0
+"Indoor Air Quality",33,20,24,20,1
+"Indoor Sewage",1,1,0,3,1
+"Industrial Waste",3,4,0,4,0
+"Institution Disposal Complaint",0,1,0,1,0
+"Investigations and Discipline (IAD)",0,3,1,1,0
+"Lead",7,51,31,24,2
+"LinkNYC",0,0,2,0,2
+"Litter Basket Complaint",2,5,1,1,2
+"Litter Basket Request",4,26,16,5,4
+"Lost Property",0,0,82,14,0
+"Lot Condition",1,1,0,1,1
+"Maintenance or Facility",27,80,68,14,9
+"Missed Collection",104,252,86,238,90
+"Mobile Food Vendor",4,19,27,36,0
+"Mold",2,0,0,1,0
+"New Tree Request",1,7,0,3,0
+"Noise",63,225,300,129,24
+"Noise - Commercial",93,283,319,173,17
+"Noise - Helicopter",0,50,128,70,3
+"Noise - House of Worship",1,4,1,9,0
+"Noise - Park",11,29,45,31,3
+"Noise - Residential",1225,1206,827,826,110
+"Noise - Street/Sidewalk",478,472,647,381,21
+"Noise - Vehicle",157,170,106,132,14
+"Non-Emergency Police Matter",37,77,78,86,11
+"Non-Residential Heat",0,1,0,0,0
+"OUTSIDE BUILDING",2,4,3,1,0
+"Obstruction",14,45,42,75,21
+"Oil or Gas Spill",0,0,0,1,0
+"Outdoor Dining",3,18,48,7,0
+"Overgrown Tree/Branches",11,47,3,45,16
+"PAINT/PLASTER",247,178,165,100,8
+"PLUMBING",252,250,166,99,14
+"Panhandling",25,20,59,7,0
+"Pet Shop",0,2,0,2,0
+"Plumbing",5,14,7,8,2
+"Poison Ivy",0,2,0,0,0
+"Posting Advertisement",0,0,2,1,0
+"Radioactive Material",0,1,0,0,0
+"Real Time Enforcement",0,33,28,12,1
+"Recycling Basket Complaint",0,0,1,0,0
+"Residential Disposal Complaint",24,161,105,66,14
+"Rodent",63,180,119,74,14
+"Root/Sewer/Sidewalk Condition",17,27,1,48,18
+"SAFETY",39,43,29,24,2
+"Sanitation Worker or Vehicle Complaint",5,21,2,9,4
+"Scaffold Safety",0,0,1,0,0
+"School Maintenance",4,9,3,1,1
+"Sewer",28,62,26,118,30
+"Sidewalk Condition",34,112,72,101,35
+"Smoking or Vaping",18,24,17,14,0
+"Special Projects Inspection Team (SPIT)",1,14,13,23,3
+"Standing Water",1,1,1,8,2
+"Street Condition",108,233,163,340,98
+"Street Light Condition",63,95,60,89,36
+"Street Sign - Damaged",7,20,12,22,7
+"Street Sign - Dangling",6,19,10,19,5
+"Street Sign - Missing",6,21,10,8,4
+"Street Sweeping Complaint",10,42,15,11,0
+"Tattooing",0,0,1,0,0
+"Taxi Complaint",0,4,66,36,0
+"Taxi Compliment",0,0,1,0,0
+"Traffic",12,30,25,89,3
+"Traffic Signal Condition",55,213,105,143,18
+"UNSANITARY CONDITION",339,386,263,169,25
+"Unleashed Dog",3,2,0,6,2
+"Unsanitary Animal Pvt Property",9,8,6,5,4
+"Unsanitary Pigeon Condition",2,2,10,3,2
+"Unspecified",0,1,0,0,0
+"Uprooted Stump",0,1,0,0,0
+"Urinating in Public",1,2,6,6,1
+"Vendor Enforcement",48,69,271,61,0
+"Violation of Park Rules",5,15,26,8,1
+"WATER LEAK",135,130,79,42,6
+"Water Conservation",9,8,6,14,2
+"Water Quality",3,5,4,3,1
+"Water System",68,125,70,182,55
+"Wood Pile Remaining",1,0,0,1,2

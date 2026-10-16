@@ -1,0 +1,143 @@
+"problem","n","agency","dominant_share"
+"AHV Inspection Unit",1,"DOB",1
+"APPLIANCE",235,"HPD",1
+"Abandoned Bike",34,"DSNY",1
+"Abandoned Vehicle",793,"NYPD",1
+"Air Quality",110,"DEP",1
+"Animal Facility - No Permit",1,"DOHMH",1
+"Animal in a Park",95,"DPR",1
+"Animal-Abuse",118,"NYPD",1
+"Asbestos",14,"DEP",0.5
+"BEST/Site Safety",6,"DOB",1
+"Beach/Pool/Sauna Complaint",1,"DOHMH",1
+"Bench",1,"DOT",1
+"Bike Rack",9,"DOT",1
+"Bike/Roller/Skate Chronic",29,"NYPD",1
+"Blocked Driveway",1898,"NYPD",1
+"Boilers",43,"DOB",1
+"Broken Parking Meter",50,"DOT",1
+"Building Condition",1,"DOT",1
+"Building Drinking Water Tank",1,"DOHMH",1
+"Building/Use",240,"DOB",1
+"Bus Stop Shelter Complaint",17,"DOT",1
+"Bus Stop Shelter Placement",2,"DOT",1
+"Commercial Disposal Complaint",30,"DSNY",1
+"Consumer Complaint",205,"DCWP",1
+"Curb Condition",133,"DOT",1
+"DOOR/WINDOW",473,"HPD",1
+"Damaged Tree",222,"DPR",1
+"Day Care",17,"DOHMH",1
+"Dead Animal",115,"DSNY",1
+"Dead/Dying Tree",99,"DPR",1
+"Derelict Vehicles",602,"DSNY",1
+"Dirty Condition",665,"DSNY",1
+"Disorderly Youth",2,"NYPD",1
+"Drinking",61,"NYPD",1
+"Drinking Water",2,"DOHMH",1
+"Drug Activity",225,"NYPD",1
+"Dumpster Complaint",24,"DSNY",1
+"E-Scooter",11,"DOT",1
+"ELECTRIC",336,"HPD",1
+"ELEVATOR",21,"HPD",1
+"Electrical",30,"DOB",1
+"Elevator",229,"DOB",1
+"Emergency Response Team (ERT)",36,"DOB",1
+"Encampment",545,"NYPD",0.704587155963303
+"FLOORING/STAIRS",346,"HPD",1
+"Food Establishment",158,"DOHMH",1
+"Food Poisoning",36,"DOHMH",1
+"For Hire Vehicle Complaint",202,"TLC",1
+"GENERAL",355,"HPD",1
+"General Construction/Plumbing",447,"DOB",1
+"Graffiti",272,"DSNY",0.959558823529412
+"Green Taxi Complaint",4,"TLC",1
+"HEAT/HOT WATER",2479,"HPD",1
+"Hazardous Materials",26,"DEP",1
+"Highway Condition",66,"DOT",0.742424242424242
+"Highway Sign - Damaged",2,"DOT",1
+"Homeless Person Assistance",429,"DHS",1
+"Illegal Animal Kept as Pet",4,"DOHMH",1
+"Illegal Dumping",515,"DSNY",1
+"Illegal Fireworks",19,"NYPD",1
+"Illegal Parking",7088,"NYPD",1
+"Illegal Posting",86,"DSNY",1
+"Illegal Tree Damage",72,"DPR",1
+"Incorrect Data",2,"DSNY",1
+"Indoor Air Quality",98,"DOHMH",1
+"Indoor Sewage",6,"DOHMH",1
+"Industrial Waste",11,"DEP",1
+"Institution Disposal Complaint",2,"DSNY",1
+"Investigations and Discipline (IAD)",5,"DOB",1
+"Lead",115,"DEP",1
+"LinkNYC",4,"OTI",1
+"Litter Basket Complaint",11,"DSNY",1
+"Litter Basket Request",55,"DSNY",1
+"Lost Property",96,"TLC",1
+"Lot Condition",4,"DSNY",1
+"Maintenance or Facility",198,"DPR",1
+"Missed Collection",770,"DSNY",1
+"Mobile Food Vendor",86,"DOHMH",1
+"Mold",3,"DOHMH",1
+"New Tree Request",11,"DPR",1
+"Noise",741,"DEP",1
+"Noise - Commercial",885,"NYPD",1
+"Noise - Helicopter",251,"EDC",1
+"Noise - House of Worship",15,"NYPD",1
+"Noise - Park",119,"NYPD",1
+"Noise - Residential",4194,"NYPD",1
+"Noise - Street/Sidewalk",1999,"NYPD",1
+"Noise - Vehicle",579,"NYPD",1
+"Non-Emergency Police Matter",289,"NYPD",1
+"Non-Residential Heat",1,"DOHMH",1
+"OUTSIDE BUILDING",10,"HPD",1
+"Obstruction",197,"DSNY",1
+"Oil or Gas Spill",1,"DSNY",1
+"Outdoor Dining",76,"DOT",1
+"Overgrown Tree/Branches",122,"DPR",1
+"PAINT/PLASTER",698,"HPD",1
+"PLUMBING",781,"HPD",1
+"Panhandling",111,"NYPD",1
+"Pet Shop",4,"DOHMH",1
+"Plumbing",36,"DOB",1
+"Poison Ivy",2,"DOHMH",1
+"Posting Advertisement",3,"NYPD",1
+"Radioactive Material",1,"DOHMH",1
+"Real Time Enforcement",74,"DOB",1
+"Recycling Basket Complaint",1,"DSNY",1
+"Residential Disposal Complaint",370,"DSNY",1
+"Rodent",450,"DOHMH",1
+"Root/Sewer/Sidewalk Condition",111,"DPR",1
+"SAFETY",137,"HPD",1
+"Sanitation Worker or Vehicle Complaint",41,"DSNY",1
+"Scaffold Safety",1,"DOB",1
+"School Maintenance",18,"DOE",1
+"Sewer",264,"DEP",1
+"Sidewalk Condition",354,"DOT",1
+"Smoking or Vaping",73,"DOHMH",1
+"Special Projects Inspection Team (SPIT)",54,"DOB",1
+"Standing Water",13,"DOHMH",1
+"Street Condition",942,"DOT",1
+"Street Light Condition",343,"DOT",1
+"Street Sign - Damaged",68,"DOT",1
+"Street Sign - Dangling",59,"DOT",1
+"Street Sign - Missing",49,"DOT",1
+"Street Sweeping Complaint",78,"DSNY",1
+"Tattooing",1,"DOHMH",1
+"Taxi Complaint",106,"TLC",1
+"Taxi Compliment",1,"TLC",1
+"Traffic",159,"NYPD",1
+"Traffic Signal Condition",534,"DOT",1
+"UNSANITARY CONDITION",1182,"HPD",1
+"Unleashed Dog",13,"DOHMH",1
+"Unsanitary Animal Pvt Property",32,"DOHMH",1
+"Unsanitary Pigeon Condition",19,"DOHMH",1
+"Unspecified",1,"DSNY",1
+"Uprooted Stump",1,"DPR",1
+"Urinating in Public",16,"NYPD",1
+"Vendor Enforcement",449,"DSNY",1
+"Violation of Park Rules",55,"DPR",1
+"WATER LEAK",392,"HPD",1
+"Water Conservation",39,"DEP",1
+"Water Quality",16,"DEP",1
+"Water System",500,"DEP",1
+"Wood Pile Remaining",4,"DPR",1

@@ -1,0 +1,6 @@
+        set   RMSE      MAE R_squared
+   Training 1.2938 0.915567  0.669945
+ Validation 1.3089 0.927796  0.658189
+                    model     RMSE     MAE    R_squared
+ Smearing adjusted linear 1373.178 316.646 -1.00009e+00
+   Training mean baseline  970.967 392.307 -1.31544e-05

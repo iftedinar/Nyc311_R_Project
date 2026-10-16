@@ -1,0 +1,9 @@
+"item","value"
+"Raw rows",40000
+"Raw columns",16
+"Eligible rows",39668
+"Training rows",27767
+"Validation rows",11901
+"Seed",353
+"Predictor variables",6
+"Model columns including two outcomes",8

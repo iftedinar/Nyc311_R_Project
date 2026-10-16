@@ -1,0 +1,11 @@
+      category    n actual_slow mean_probability flag_rate
+      BROOKLYN 3748    0.224653         0.228750 0.2094450
+         BRONX 2288    0.335664         0.313694 0.9943182
+     MANHATTAN 2480    0.247984         0.243244 0.3737903
+        QUEENS 2958    0.269777         0.249097 0.4604462
+ STATEN ISLAND  427    0.215457         0.196246 0.0117096
+ category    n actual_slow mean_probability flag_rate
+   ONLINE 5081    0.256446         0.245057  0.390278
+   MOBILE 2534    0.267956         0.257378  0.482242
+    PHONE 3361    0.271050         0.257890  0.506992
+  UNKNOWN  925    0.240000         0.253899  0.481081

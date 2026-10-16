@@ -1,0 +1,5 @@
+reason
+Missing or invalid closed date                       Retained 
+                           332                          39668 
+Duplicate keys: 0 
+Negative durations: 0 

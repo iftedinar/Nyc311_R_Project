@@ -1,0 +1,63 @@
+"term","estimate"
+"(Intercept)",1.01573490843969
+"problemAPPLIANCE",4.61337208113367
+"problemAbandoned Vehicle",0.176457455331464
+"problemBlocked Driveway",0.101857240221255
+"problemBuilding/Use",5.63665775889132
+"problemConsumer Complaint",3.53638421237953
+"problemDOOR/WINDOW",4.45321895195878
+"problemDamaged Tree",3.66594277361021
+"problemDerelict Vehicles",1.90713175995869
+"problemDirty Condition",2.03270765511732
+"problemDrug Activity",-0.329236364202609
+"problemELECTRIC",4.21390052000774
+"problemElevator",4.78947831396209
+"problemEncampment",0.662545991600467
+"problemFLOORING/STAIRS",4.28115201463142
+"problemFood Establishment",6.10781634967408
+"problemFor Hire Vehicle Complaint",6.11565513212209
+"problemGENERAL",4.4869055096396
+"problemGeneral Construction/Plumbing",3.47117422709305
+"problemGraffiti",3.83036238038624
+"problemHEAT/HOT WATER",2.20485503189969
+"problemIllegal Dumping",2.98655543777548
+"problemMaintenance or Facility",4.12764348390275
+"problemMissed Collection",3.10646297093325
+"problemNoise",2.94288235340114
+"problemNoise - Commercial",-0.216937591227253
+"problemNoise - Helicopter",7.79971467515217
+"problemNoise - Residential",-0.166967506426593
+"problemNoise - Street/Sidewalk",-0.194583863369262
+"problemNoise - Vehicle",-0.082475528209209
+"problemNon-Emergency Police Matter",-0.167962004520325
+"problemObstruction",2.24837072605423
+"problemOther",2.79064144821742
+"problemPAINT/PLASTER",4.17128049800307
+"problemPLUMBING",4.08978620354178
+"problemResidential Disposal Complaint",2.1040663372701
+"problemRodent",-0.0213053453234151
+"problemSewer",1.19547567084959
+"problemSidewalk Condition",3.71974192397204
+"problemStreet Condition",2.18228901812155
+"problemStreet Light Condition",3.59352512358561
+"problemTraffic",-0.395144874297767
+"problemTraffic Signal Condition",0.404511904460397
+"problemUNSANITARY CONDITION",4.31919137083157
+"problemVendor Enforcement",-0.874974414096182
+"problemWATER LEAK",4.32893139728907
+"problemWater System",1.26667970019888
+"boroughBRONX",0.138789299431652
+"boroughMANHATTAN",-0.000599210748435855
+"boroughQUEENS",0.0523446589351231
+"boroughSTATEN ISLAND",0.00998515855467712
+"open_data_channel_typeMOBILE",0.033866390544965
+"open_data_channel_typePHONE",0.0986634830569924
+"open_data_channel_typeUNKNOWN",0.0287819197647954
+"weekdayTue",-0.0333747409265245
+"weekdayWed",0.00942883456046811
+"weekdayThu",0.0184799877551928
+"weekdayFri",0.100659420959744
+"weekdaySat",0.0810679171104027
+"weekdaySun",-0.0154038486353573
+"hour_sin",-0.0827184356480832
+"hour_cos",-0.0232811029151398

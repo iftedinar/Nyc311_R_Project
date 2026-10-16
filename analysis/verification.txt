@@ -1,0 +1,4 @@
+All R invariants passed.
+Input MD5: e83fa732cededd45cf760884b1a8f0a1
+Linear model rank: 62
+Logistic converged: TRUE
