@@ -1,4 +1,0 @@
-
-  Training Validation 
-     27767      11901 
-Seed: 353; training fraction: 0.699985 

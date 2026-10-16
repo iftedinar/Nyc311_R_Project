@@ -1,6 +1,0 @@
-[1] "problem"                "borough"                "open_data_channel_type"
-[4] "weekday"                "hour_sin"               "hour_cos"              
-log_resolution_hours ~ problem + borough + open_data_channel_type + 
-    weekday + hour_sin + hour_cos
-slow ~ problem + borough + open_data_channel_type + weekday + 
-    hour_sin + hour_cos

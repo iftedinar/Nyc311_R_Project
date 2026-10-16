@@ -1,9 +1,0 @@
-                                  item value
-1                             Raw rows 40000
-2                          Raw columns    16
-3                        Eligible rows 39668
-4                        Training rows 27767
-5                      Validation rows 11901
-6                                 Seed   353
-7                  Predictor variables     6
-8 Model columns including two outcomes     8

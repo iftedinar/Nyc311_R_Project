@@ -1,7 +1,0 @@
-Median/mean hours: 6.68167 251.356 
-        set   RMSE      MAE R_squared
- Validation 1.3089 0.927796  0.658189
- cutoff   TN   FP   FN   TP accuracy sensitivity specificity precision
-   0.25 4997 3789 1550 1565 0.551382    0.502408    0.568746  0.292305
-       F1 flag_rate
- 0.369583  0.449878

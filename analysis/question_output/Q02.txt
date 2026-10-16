@@ -1,3 +1,0 @@
-                model                                          target
-1   Linear regression              log(1 + hours to recorded closure)
-2 Logistic regression Above training problem-specific 75th percentile
